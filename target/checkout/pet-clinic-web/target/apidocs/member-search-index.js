@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"guru.springframework.sfgpetclinic","c":"SfgPetClinicApplication","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"guru.springframework.sfgpetclinic","c":"SfgPetClinicApplication","l":"SfgPetClinicApplication()","url":"%3Cinit%3E()"}]

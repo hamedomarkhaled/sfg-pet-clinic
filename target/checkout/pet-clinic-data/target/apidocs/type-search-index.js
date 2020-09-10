@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"guru.springframework.sfgpetclinic.model","l":"Owner"},{"p":"guru.springframework.sfgpetclinic.model","l":"Person"},{"p":"guru.springframework.sfgpetclinic.model","l":"Pet"},{"p":"guru.springframework.sfgpetclinic.model","l":"PetType"},{"p":"guru.springframework.sfgpetclinic.model","l":"Vet"}]
