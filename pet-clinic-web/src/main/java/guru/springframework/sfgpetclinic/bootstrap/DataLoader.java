@@ -117,6 +117,7 @@ public class DataLoader implements CommandLineRunner {
 
         System.out.println("Loaded Vets...");
 
+
         System.out.println("number of saved pets " + petService.findAll().size());
     }
 }
