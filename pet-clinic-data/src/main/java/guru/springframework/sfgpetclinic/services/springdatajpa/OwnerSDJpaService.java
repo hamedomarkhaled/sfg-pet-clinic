@@ -18,6 +18,7 @@ public class OwnerSDJpaService implements OwnerService {
     private final PetRepository petRepository;
     private final PetTypeRepository petTypeRepository;
 
+    @org.jetbrains.annotations.Contract(pure = true)
     public OwnerSDJpaService(OwnerRepository ownerRepository, PetRepository petRepository,
                              PetTypeRepository petTypeRepository) {
         this.ownerRepository = ownerRepository;
